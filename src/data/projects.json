@@ -1,0 +1,20 @@
+[
+  {
+    "id": "global-trade-analytics",
+    "title": "Global Trade Analytics Platform",
+    "description": "Engineered a high-frequency trading dashboard processing millions of data points in real-time with sub-second latency for a leading investment firm.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCb8APgqjicgyxvJ4VTKaRKu1pl46SopQq3K2jR0f_4fVRlTsJhjccZXWHM6FV-7F90unZafnSI4vhuri3NyilyfaNgDWrvW6OE4YGrpBX3UXoO3az9hI9aaR-tFQ133octGJaNvjS6lp10osYNt3KyDpnZTr4vPA6mygXWr_W56aVf0CuoZTHXxwJ037S-kygW0j5neaneSIpjdomANVxuJGQkJhkNUs09A8-xMFiVMtBhb-TIknWOFT6_B3oS-vppoIjEVQtN9bI",
+    "imageAlt": "Financial Dashboard UI on laptop screen showing data visualization",
+    "tags": ["FinTech", "React", "Node.js"],
+    "url": null
+  },
+  {
+    "id": "hipaa-patient-portal",
+    "title": "HIPAA-Compliant Patient Portal",
+    "description": "Developed a secure, end-to-end encrypted communication platform facilitating telehealth consultations and electronic health record management.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDCK63Y4gzj4Y33KVXB_zthV7tH4hg-D220jhVEzUuUDuanhDT0XZPhXwqPxKojbFSdyqBH7ffzdZidn5lP9unlXat3kbsc17tit4y2H9fWTB_n3RJGNz-FHOdpE0uhjf1ed5ccF206ZkG1oGb6kpZ8bqWt1xUf1HsM-vkmwAYLtWkXPd6NJOT8UiKxXULy4fBBrqxxUj7m0I1UsmfifGAxydr-Mq3pIuRpx_6NGHHqMy11QdlY_qC_DBWZycr2sAbg_DUkzy5R3H4",
+    "imageAlt": "Clean app interface showing patient records and scheduling",
+    "tags": ["HealthTech", "AWS", "Custom CRM"],
+    "url": null
+  }
+]
